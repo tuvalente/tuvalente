@@ -12,14 +12,12 @@
 
 ## Languages and Tools:
 
+<img align="left" alt="discord" width="26px" src="https://img.icons8.com/color/452/discord.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="android-studio" width="26px" src="https://img.icons8.com/color/452/android-studio.png" />
 <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/452/java.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="xamarin" width="26px" src="https://img.icons8.com/color/452/xamarin.png" /> 
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
-<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" /> 
-
-<!---
-tuvalente/tuvalente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
+<img align="left" alt="microsoft-sql-server" width="26px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
