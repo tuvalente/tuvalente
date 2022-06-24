@@ -1,5 +1,6 @@
 ## About me:
 
+* Avid gamer
 * Discord Community Manager
 * NodeJS/Discord bots enthusiast
 * Mobile Developer
